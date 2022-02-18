@@ -26,4 +26,4 @@ LZW compression uses some CODE_LENGTH to store subsections of data transmitted. 
 
 ##
 
-Once this is all done, we write the output buffer to a bin file with specific header that the decoder can use to decode the information.
+Once this is all done, we write the output buffer to a bin file with specific headers that the decoder can use to decode the information.
